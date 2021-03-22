@@ -34,7 +34,7 @@ def place_marker(board, marker, position): # Function used to place the player m
     return board
 
 
-def win_check(board, mark): # Function to check if a player has one
+def win_check(board, mark): # Function to check if a player has won
     pass
 
 
